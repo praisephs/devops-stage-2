@@ -1,0 +1,13 @@
+__pycache__
+app.egg-info
+*.pyc
+.mypy_cache
+.coverage
+htmlcov
+.cache
+.venv
+.env
+nginx_proxy_manager/
+version\357\200\272
+backend/venv/
+frontend/venv/
